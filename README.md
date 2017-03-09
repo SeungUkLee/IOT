@@ -21,23 +21,17 @@ ascoltatori
 mosca(MQTT Broker)
 
 #development
-[Api gateway][apigatewaylink]
-[apigatewaylink]: https://github.com/SeungUkLee/ApiGateway : Proxy Api
+[Api gateway](https://github.com/SeungUkLee/ApiGateway) : Proxy Api
 
-[Json Web Token][jwtapilink]
-[jwtapilink]: https://github.com/SeungUkLee/JWT : User authentication and authorization
+[Json Web Token](https://github.com/SeungUkLee/JWT) : User authentication and authorization
 
-[Device API][deviceapilink]
-[deviceapilink]: https://github.com/SeungUkLee/DeviceApi : Devices control and monitoring
+[Device API](https://github.com/SeungUkLee/DeviceApi): Devices control and monitoring
 
-[Physical Proxy][physicalproxylink]
-[physicalproxylink]: https://github.com/SeungUkLee/PhysicalProxy : Forward requests to the physical world
+[Physical Proxy](https://github.com/SeungUkLee/PhysicalProxy) : Forward requests to the physical world
 
-[MQTT Proxy][mqttproxylink]
-[mqttproxylink]: https://github.com/SeungUkLee/MqttProxy : HTTP -> MQTT, MQTT -> HTTP
+[MQTT Proxy](https://github.com/SeungUkLee/MqttProxy) : HTTP -> MQTT, MQTT -> HTTP
 
-[MQTT Broker][mqttbrokerlink]
-[mqttbrokerlink]: https://github.com/SeungUkLee/MqttBroker : Mqtt server, Pub/Sub
+[MQTT Broker](https://github.com/SeungUkLee/MqttBroker) : Mqtt server, Pub/Sub
 
 
 
