@@ -3,10 +3,8 @@ Open Source Internet Of Things Platform
 
 This project is being implemented...
 
-Check out the 
-[microservices list][microserviceslink]
-[microserviceslink]: https://github.com/SeungUkLee/IOT#development
-for the code implemantation.
+Check out the [micreoservices list](https://github.com/SeungUkLee/IOT#development) for the code implemantation.
+
 #Core Technology
 MicroService
 
